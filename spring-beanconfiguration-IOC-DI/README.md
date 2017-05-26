@@ -1,6 +1,4 @@
 # Basic bean configuration with IOC and dependency injection.
-
- 
 Project Structure: It is good to follow the structure while study this repository
 src/main/java/com/spring----(contains all the source file and bean configuration)
 
@@ -60,22 +58,3 @@ src/main/java/com/spring----(contains all the source file and bean configuration
           --beans	first 
           --App.java	
           --FruitBasket.java
- 
-    All the dependencies are
-<dependencies>
-  	<dependency>
-  		<groupId>org.springframework</groupId>
-  		<artifactId>spring-core</artifactId>
-  		<version>4.3.8.RELEASE</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.springframework</groupId>
-  		<artifactId>spring-beans</artifactId>
-  		<version>4.3.8.RELEASE</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.springframework</groupId>
-  		<artifactId>spring-context</artifactId>
-  		<version>4.3.8.RELEASE</version>
-  	</dependency>
-  </dependencies>
