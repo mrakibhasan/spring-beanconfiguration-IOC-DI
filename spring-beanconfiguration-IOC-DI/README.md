@@ -1,6 +1,8 @@
 # Basic bean configuration with IOC and dependency injection.
-Project Structure: It is good to follow the structure while study this repository
-src/main/java/com/spring----(contains all the source file and bean configuration)
+    Project Structure: It is good to follow the structure while study this repository
+
+
+    src/com/spring----(contains all the source file and bean configuration)
 
   
   
