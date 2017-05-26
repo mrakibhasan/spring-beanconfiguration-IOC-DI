@@ -2,14 +2,11 @@
 
  
 Project Structure: It is good to follow the structure while study this repository
+src/main/java/com/spring----(contains all the source file and bean configuration)
 
-
-
- -src/main/java/com/spring----(contains all the source file and bean configuration)
- 
- 
- 
-   -constructor (how to populate and configure the constructor with spring)
+  
+  
+     -constructor (how to populate and configure the constructor with spring)
    
            --bean	(xml configuration file)
            --with/map	add constructor with map (contains java file and bean xml of constructor with map)
@@ -64,9 +61,7 @@ Project Structure: It is good to follow the structure while study this repositor
           --App.java	
           --FruitBasket.java
  
- All the dependencies are
- 
- 
+    All the dependencies are
 <dependencies>
   	<dependency>
   		<groupId>org.springframework</groupId>
