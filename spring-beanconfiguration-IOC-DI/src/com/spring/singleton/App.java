@@ -12,7 +12,7 @@ public class App {
 		
 		Person person1 = (Person)context.getBean("person");
 		Person person2 = (Person)context.getBean("person");
-		
+		///hihihihihihihihihi
 		person1.setTaxId(666);
  
 		System.out.println(person2);
